@@ -1,0 +1,399 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fun",
+				"function"
+			],
+			[
+				"chat",
+				"chatPerson"
+			],
+			[
+				"configure",
+				"configureRoute"
+			],
+			[
+				"trn",
+				"transformedDoc"
+			],
+			[
+				"transf",
+				"transformedDoc"
+			],
+			[
+				"sea",
+				"searchPosts"
+			],
+			[
+				"s",
+				"subscribe"
+			],
+			[
+				"room",
+				"room"
+			],
+			[
+				"receiver",
+				"receiverString"
+			],
+			[
+				"marin",
+				"margin-left: "
+			],
+			[
+				"margin",
+				"margin-top: "
+			],
+			[
+				"backgroun",
+				"background-color: "
+			],
+			[
+				"word",
+				"word-wrap: "
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"align",
+				"text-align: "
+			],
+			[
+				"position",
+				"position: "
+			],
+			[
+				"alig",
+				"align-self: "
+			],
+			[
+				"al",
+				"vertical-align: "
+			],
+			[
+				"font",
+				"font-size: "
+			],
+			[
+				"padding-",
+				"padding-right: "
+			],
+			[
+				"p",
+				"p	Tag"
+			],
+			[
+				"fon",
+				"font-size: "
+			],
+			[
+				"padding",
+				"padding-left: "
+			],
+			[
+				"border",
+				"border-bottom-style: "
+			],
+			[
+				"border-bott",
+				"border-bottom-color: "
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "packa",
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/mervynteo/Code/betaapp/client/templates/application/layout.js",
+		"/Users/mervynteo/Code/betaapp/client/templates/application/main.html",
+		"/Users/mervynteo/Code/betaapp/.meteor/packages",
+		"/Users/mervynteo/Code/betaapp/client/templates/application/navbar.js",
+		"/Users/mervynteo/Code/betaapp/client/templates/application/navbar.html",
+		"/Users/mervynteo/Code/betaapp/client/stylesheets/app.scss",
+		"/Users/mervynteo/Code/betaapp/client/templates/application/footer.html",
+		"/Users/mervynteo/Code/betaapp/client/templates/auth/auth.html",
+		"/Users/mervynteo/Code/betaapp/client/templates/posts/post_submit.html",
+		"/Users/mervynteo/Code/betaapp/client/templates/auth/home.html",
+		"/Users/mervynteo/Code/betaapp/client/templates/posts/posts_list.js",
+		"/Users/mervynteo/Code/betaapp/client/templates/auth/register.js",
+		"/Users/mervynteo/Code/betaapp/client/templates/auth/root.html",
+		"/Users/mervynteo/Code/betaapp/client/templates/auth/login.js",
+		"/Users/mervynteo/Code/betaapp/client/templates/auth/login.html",
+		"/Users/mervynteo/Code/betaapp/client/templates/posts/nearPosts.js",
+		"/Users/mervynteo/Code/betaapp/client/templates/auth/recover.js",
+		"/Users/mervynteo/Code/betaapp/client/templates/auth/register.html",
+		"/Users/mervynteo/Code/betaapp/client/templates/chat/roomDetail.js",
+		"/Users/mervynteo/Code/betaapp/client/templates/auth/auth.js",
+		"/Users/mervynteo/Code/betaapp/client/templates/application/auth.js",
+		"/Users/mervynteo/Code/betaapp/client/templates/application/auth.html",
+		"/Users/mervynteo/Code/betaapp/client/templates/application/auth-register.js",
+		"/Users/mervynteo/Code/betaapp/client/templates/application/auth-register.html",
+		"/Users/mervynteo/Code/betaapp/client/templates/application/auth-login.js",
+		"/Users/mervynteo/Code/betaapp/client/templates/application/auth-login.html",
+		"/Users/mervynteo/Code/betaapp/server/config.js",
+		"/Users/mervynteo/Code/betaapp/lib/collections/alerts.js",
+		"/Users/mervynteo/Code/betaapp/client/templates/chat/allRooms.js",
+		"/Users/mervynteo/Code/betaapp/client/templates/profile/profile.js",
+		"/Users/mervynteo/Code/betaapp/client/templates/posts/post_submit.js",
+		"/Users/mervynteo/Code/betaapp/client/templates/profile/profile.html",
+		"/Users/mervynteo/Code/betaapp/lib/collections/messages.js",
+		"/Users/mervynteo/Code/betaapp/lib/collections/rooms.js",
+		"/Users/mervynteo/Code/betaapp/client/helpers/handlebars.js",
+		"/Users/mervynteo/Code/betaapp/client/templates/chat/allRooms.html",
+		"/Users/mervynteo/Code/betaapp/lib/collections/notifications.js",
+		"/Users/mervynteo/Code/betaapp/client/templates/notifications/notifications.js",
+		"/Users/mervynteo/Code/betaapp/lib/collections/comments.js",
+		"/Users/mervynteo/Code/betaapp/client/templates/chat/roomDetail.html",
+		"/Users/mervynteo/Code/betaapp/client/templates/comments/comment_submit.html",
+		"/Users/mervynteo/Code/betaapp/client/templates/comments/comment_submit.js",
+		"/Users/mervynteo/Code/betaapp/lib/router.js",
+		"/Users/mervynteo/Code/betaapp/client/templates/notifications/notifications.html",
+		"/Users/mervynteo/Code/betaapp/lib/collections/posts.js",
+		"/Users/mervynteo/Code/betaapp/server/server.js",
+		"/Users/mervynteo/Code/betaapp/client/stylesheets/app-mixins.scss",
+		"/Users/mervynteo/Code/betaapp/client/templates/profile/user.js",
+		"/Users/mervynteo/Code/betaapp/client/templates/profile/user.html",
+		"/Users/mervynteo/Code/betaapp/client/templates/profile/userposts.html",
+		"/Users/mervynteo/Code/betaapp/lib/collections/users.js",
+		"/Users/mervynteo/Code/betaapp/server/seeds.js",
+		"/Users/mervynteo/Code/betaapp/client/templates/posts/searchPosts.js",
+		"/Users/mervynteo/Code/betaapp/client/templates/posts/post_edit.js",
+		"/Users/mervynteo/Code/betaapp/client/templates/posts/post_page.html",
+		"/Users/mervynteo/Code/betaapp/client/templates/posts/post_page.js",
+		"/Users/mervynteo/Code/betaapp/client/templates/posts/posts_list.html",
+		"/Users/mervynteo/Code/betaapp/client/templates/posts/searchPosts.html",
+		"/Users/mervynteo/Code/betaapp/client/templates/posts/post_item.html",
+		"/Users/mervynteo/Code/betaapp/client/templates/posts/post_item.js",
+		"/Users/mervynteo/Code/betaapp/lib/collections/notificationsChat.js",
+		"/Users/mervynteo/Code/betaapp/lib/collections/notificationsPost.js",
+		"/Users/mervynteo/Code/betaapp/lib/search.js",
+		"/Users/mervynteo/Code/betaapp/.meteor/local/build/programs/server/app/server/config.js",
+		"/Users/mervynteo/Code/betaapp/lib/permissions.js",
+		"/Users/mervynteo/Code/betaapp/client/templates/posts/post_edit.html",
+		"/Users/mervynteo/Code/betaapp/client/templates/settings/aboutus.html",
+		"/Users/mervynteo/Code/betaapp/client/templates/settings/terms.html",
+		"/Users/mervynteo/Code/betaapp/client/templates/settings/settings.html",
+		"/Users/mervynteo/Code/betaapp/client/templates/user/user.js",
+		"/Users/mervynteo/Code/betaapp/client/templates/user/user.html",
+		"/Users/mervynteo/Code/betaapp/client/templates/profile/settings.html",
+		"/Users/mervynteo/Code/betaapp/client/auth.html",
+		"/Users/mervynteo/Code/betaapp/client/main.html",
+		"/Users/mervynteo/Code/betaapp/client/footer.html",
+		"/Users/mervynteo/Code/betaapp/client/templates/application/layout.html",
+		"/Users/mervynteo/Code/betaapp/client/helpers/errors.js",
+		"/Users/mervynteo/Code/betaapp/client/footer.js",
+		"/Users/mervynteo/Code/betaapp/client/templates/comments/comment_item.html",
+		"/Users/mervynteo/Code/betaapp/lib/config.js",
+		"/Users/mervynteo/Code/betaapp/client/templates/posts/nearPosts.html",
+		"/Users/mervynteo/Code/betaapp/client/titleBar.html",
+		"/Users/mervynteo/Code/betaapp/client/stylesheets/app-variables.scss",
+		"/Users/mervynteo/Code/betaapp/client/titleBar.js",
+		"/Users/mervynteo/Code/betaapp/client/main.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"dynamicNavbar",
+			"		\n",
+			"postsList",
+			"onBeforeAction",
+			"dataNotFound",
+			"beforea",
+			"wait",
+			"root.html",
+			"});\n",
+			"userposts.html",
+			"message",
+			"commentInsert",
+			"onlusers",
+			");\n",
+			"right",
+			"Accounts.onCreateUser",
+			"res",
+			"							<",
+			" </",
+			"users = Meteor.users.find( { md5hash: { $exists: false } } );",
+			"recName",
+			"Accounts.onCreateUser()",
+			"button",
+			"d",
+			"username",
+			"non-comment",
+			"owner",
+			"font",
+			">\n",
+			"item-input-wrapper",
+			"footer.js",
+			"onlusers",
+			"result",
+			"                //",
+			"position",
+			"username",
+			"recName",
+			"                </",
+			"            </",
+			" </"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "main.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"lib/collections/rooms.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 227.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

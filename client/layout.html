@@ -1,0 +1,52 @@
+<template name="layout">
+
+	<body>
+		<div class="statusbar-overlay"></div>					
+		<div class="panel-overlay"></div>  							
+
+		 <!-- 
+		Have to remove these lines so something appears on page, but formatting off
+
+		 <div class="views">
+			<div class="view view-main">
+		--> 
+
+			{{> Template.dynamic template=main}}
+			{{> Template.dynamic template=footer}}
+	
+			<!-- </div>
+		</div> --> 
+
+		<script type="text/javascript">
+		
+			   var myApp = new Framework7({
+			      router: false,
+			   });
+			   var $$ = Dom7; 
+
+		</script>
+
+	</body>
+</template>
+
+
+
+
+<template name="footer">	    
+
+	<div class="toolbar tabbar tabbar-labels">
+		<div class="toolbar-inner">
+
+			<a href="#"  class="link"> 
+				<i class="icon ion-ios-chatboxes-outline"></i>
+				<span class="tabbar-label">Add</span>
+			</a>
+			<a href="#" class="link">
+			   <i class="icon ion-more"></i>
+				<span class="tabbar-label">Minus</span>
+			</a>
+			
+		</div>
+	</div>
+	
+</template>
